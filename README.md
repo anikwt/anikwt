@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Java Advance**
+- 🌱 I’m currently learning **DSA ADVANCE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anikwt](https://github.com/anikwt)
 
-- 📫 How to reach me **aniketbomble.sae.comp@gmail.com**
+- 📫 How to reach me **aniketbomble14@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="right" width="400">
