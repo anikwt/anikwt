@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A passionate Fullstack .Net developer with 2 years of experience</h3>
 
-- 🌱 I’m currently learning **NodeJs**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/anikwt](https://github.com/anikwt)
 
