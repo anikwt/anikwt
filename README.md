@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anikwt](https://github.com/anikwt)
 
-- 📫 How to reach me **aniketbomble14@gmail.com**
+- 📫 How to reach me **aniketbomble.it@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
